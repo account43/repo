@@ -19,11 +19,11 @@ Stworzona aplikacja ma symulować narzędzie do obsługi e-maila.
 
 #### Aplikacja zbudowana jest w oparciu o bibliotekę Android Room, która pełni rolę lokalnej bazy danych.
 
-<img src="https://github.com/account43/repo/blob/main/tabela.jpg" width="350" height="740">
+<img src="https://github.com/account43/repo/blob/main/tabela.jpg" width="500" height="740">
 
 #### Z predefiniowanymi zapytań DML. 
 
-<img src="https://github.com/account43/repo/blob/main/zapytania.jpg" width="350" height="740">
+<img src="https://github.com/account43/repo/blob/main/zapytania.jpg" width="500" height="740">
 
 
 ## Autorzy
