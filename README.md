@@ -6,7 +6,7 @@ Stworzona aplikacja ma symulować narzędzie do obsługi e-maila.
 
 ### Wysyłanie wiadomości 
 
-<img src="https://github.com/account43/repo/blob/main/wysylanie.gif" width="350" height="740">
+<img src="https://github.com/account43/repo/blob/main/przegladanie.gif" width="350" height="740">
 
 ### Przeglądanie wysłanych wiadomości
 
